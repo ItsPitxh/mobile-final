@@ -55,7 +55,7 @@ lib/
 >
 > | มุมมอง Grid | มุมมอง List |
 > |---|---|
-> | <img src="screenshots/Screenshot_1773644992.png" alt="">| _(วางภาพหน้าจอที่นี่)_ |
+> | <img src="screenshots/Screenshot_1773644992.png" height="500px">| _(วางภาพหน้าจอที่นี่)_ |
 
 **ฟังก์ชันที่รองรับ:**
 
