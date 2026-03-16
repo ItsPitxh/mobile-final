@@ -55,7 +55,7 @@ lib/
 >
 > | มุมมอง Grid | มุมมอง List |
 > |---|---|
-> | <img src="screenshots/Screenshot_1773644992.png" height="500px">| _(วางภาพหน้าจอที่นี่)_ |
+> |<img src="screenshots/Screenshot_1773644992.png" height="500px">|<img src="screenshots/Screenshot_1773645256.png" height="500px">|
 
 **ฟังก์ชันที่รองรับ:**
 
@@ -75,7 +75,7 @@ lib/
 >
 > | เพิ่มสูตรใหม่ | แก้ไขสูตร |
 > |---|---|
-> | _(วางภาพหน้าจอที่นี่)_ | _(วางภาพหน้าจอที่นี่)_ |
+> | <img src="screenshots/Screenshot_1773645264.png" height="500px"> | <img src="screenshots/Screenshot_1773645278.png" height="500px"> |
 
 **ฟังก์ชันที่รองรับ:**
 
@@ -94,7 +94,7 @@ lib/
 >
 > | หน้าแรก | ส่วนผสม / วิธีทำ |
 > |---|---|
-> | _(วางภาพหน้าจอที่นี่)_ | _(วางภาพหน้าจอที่นี่)_ |
+> |<img src="screenshots/Screenshot_1773645293.png" height="500px">| <img src="screenshots/Screenshot_1773645300.png" height="500px"> |
 
 **ฟังก์ชันที่รองรับ:**
 
@@ -114,7 +114,7 @@ lib/
 >
 > | รายการหมวดหมู่ | เพิ่ม / แก้ไขหมวดหมู่ |
 > |---|---|
-> | _(วางภาพหน้าจอที่นี่)_ | _(วางภาพหน้าจอที่นี่)_ |
+> | <img src="screenshots/Screenshot_1773645309.png" height="500px">| <img src="screenshots/Screenshot_1773645316.png" height="500px"> |
 
 **ฟังก์ชันที่รองรับ:**
 
@@ -133,7 +133,7 @@ lib/
 >
 > | ภาพรวมสถิติ | Pie Chart หมวดหมู่ |
 > |---|---|
-> | _(วางภาพหน้าจอที่นี่)_ | _(วางภาพหน้าจอที่นี่)_ |
+> | <img src="screenshots/Screenshot_1773645326.png" height="500px"> | <img src="screenshots/Screenshot_1773645333.png" height="500px"> |
 
 **ฟังก์ชันที่รองรับ:**
 
